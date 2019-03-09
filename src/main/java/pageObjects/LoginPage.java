@@ -45,5 +45,9 @@ public class LoginPage {
 	public HomePage getHomePage() {
 		return new HomePage();
 	}
-
+	
+	public void getTest() {
+		System.out.println("Test");
+	}
+		
 }
